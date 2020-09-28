@@ -1,0 +1,60 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+options: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+options: email:nil f:t inline:t num:t p:nil pri:nil prop:nil stat:t tags:t
+#+options: tasks:t tex:t timestamp:t title:t toc:t todo:t |:t
+#+title: Hello world! This is my personal blog
+#+date: 2020
+#+author: Igor Eloi
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 28.0.50 (Org mode 9.3.2)
+
+#+options: html-link-use-abs-url:nil html-postamble:auto html-preamble:t
+#+options: html-scripts:t html-style:t html5-fancy:nil tex:t
+#+html_doctype: xhtml-strict
+#+html_container: div
+#+description:
+#+keywords:
+#+html_link_home:
+#+html_link_up:
+#+html_mathjax:
+#+html_head: <link rel="stylesheet" type="text/css" href="../css/site.css" />
+
+#+html_head_extra:
+#+subtitle:
+#+infojs_opt:
+#+creator: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 28.0.50 (<a href="https://orgmode.org">Org</a> mode 9.3.2)
+#+latex_header:
+* T. C. Chamberlain and the multiple competing hypothesis -- September 28, 2020
+T. C Chamberlain has proposed a very interesting line of thought about
+hypothesis investigation. The paper has been reprinted a couple times, but I
+never really found the texts as something providing a pleasant experience,
+therefore I compiled the original text into a [[https://github.com/igutermes/igutermes.github.io/raw/master/chamberlain.pdf][pdf]]. Hope you enjoy the reading.
+
+
+
+* Ram rant -- February 20, 2020
+I was just writing a manuscript using LibreOffice's Writer and listening to some
+random Norwegian Black Metal Album in YouTube using Firefox. The question is why
+is there so much ram consumption to do such simple tasks?
+
+My first computer used to hold a not so impressive amount of 1G of ram, and it
+used to be quite the machine. I used to run a plethora of programs at the same
+time, rarely ever complaining about ram consumption. 
+Then why is it that programs nowadays consume so much ram?
+
+The answer, though not obvious, presents in itself a somewhat futile
+motive. Programmers are working on the assumption that everybody have so much
+ram that it does not really matter how you do build a program. This is the reason why there are so many reports of memory leak these days, something that we rarely used to hear about in the glorious early 00's and far back.
+
+Back in the last century super computers could not count with much more than a
+couple kbs of ram, and we were able to perform quite remarkable tasks such as
+put men in the moon. Nowadays, computers are usually shipped with at least four
+gigs of ram. Quite the improvement, right? You would think so. But it is not really.
+
+The amount of ram plus processing power we have today allows us to play rather impressive games, remotely analyze loads of data stored in the cloud while we comfortable enjoy a cup of apple+cinnamon tea on our couches, but why simple things, such as writing a manuscript, has become more and more a resource-demanding task? It should be noted that the real trouble are websites. They became increasingly more resource demanding and forced manufactures to push for more and more computer power. But so did the text editing programs.
+
+A better option is to run away to the markdown languages, but unfortunately if your work publishing papers many journals are not prepared to receive papers written in other thing than proprietary format. We are in the same ship together and it is doomed to sink.
+  
+
