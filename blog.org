@@ -26,14 +26,16 @@
 #+infojs_opt:
 #+creator: <a href="https://www.gnu.org/software/emacs/">Emacs</a> 28.0.50 (<a href="https://orgmode.org">Org</a> mode 9.3.2)
 #+latex_header:
+* Decision tree for statistical approach -- Ouctober 12, 2020
+  I was reading Richad McElreath's book about Bayesian and found this nice decision [[https://github.com/igutermes/igutermes.github.io/raw/master/decision_tree.pdf][chart]] about
+statistical tests. It is a pretty nice tool for students that are beginning to
+worry about statistics and methodology. 
 * T. C. Chamberlain and the multiple competing hypothesis -- September 28, 2020
 T. C Chamberlain has proposed a very interesting line of thought about
 hypothesis investigation. The paper has been reprinted a couple times, but I
 never really found the texts as something providing a pleasant reading
 experience. 
-Therefore I compiled the original text into a [[https://github.com/igutermes/igutermes.github.io/raw/master/chamberlain.pdf][pdf]]. Hope you enjoy the reading.
-
-
+Therefore I compiled the original text into a [[https://github.com/igutermes/igutermes.github.io/raw/master/chamberlain.pdf][pdf]]. Hope you enjoy the reading. 
 * Ram rant -- February 20, 2020
 I was just writing a manuscript using LibreOffice's Writer and listening to some
 random Norwegian Black Metal Album in YouTube using Firefox. The question is why
